@@ -1,0 +1,15 @@
+{
+  "name": "m3-a1",
+  "version": "1.0.0",
+  "description": "Modules demo",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Charles Schrader",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
+}
